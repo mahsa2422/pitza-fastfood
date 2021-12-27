@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+body{
+  margin:0px;
+  padding: 0px;
+  background-color: #ffffff;
+  font-family:'Bebas Neue', 'Lato', sans-serif;
+}
+*{
+  box-sizing: border-box;
+}
+
